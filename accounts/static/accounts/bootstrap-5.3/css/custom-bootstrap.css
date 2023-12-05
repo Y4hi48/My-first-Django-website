@@ -1,0 +1,17 @@
+:root {
+  --primary-color: blue;
+  --secondary-color: grey;
+}
+:root {
+  --success-color: green;
+  --warning-color: yellow;
+  --danger-color: red;
+}
+
+.btn-primary {
+  background-color: var(cyan);
+}
+
+.btn-secondary {
+  background-color: var(white);
+}
